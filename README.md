@@ -23,7 +23,7 @@ and DS & Algo.</h3>
 
 🥅 *2021 Goals :* Learning new things and contribute more  
 
- 📫 You can reach me at [chat](mailto:sonuabhsardagi@gmail.com) 
+
 
 
 ## 🚀 Languages and Tools:
