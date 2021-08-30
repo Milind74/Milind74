@@ -49,3 +49,41 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/milindanand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<p align="center">
+    <a href="https://github.com/Milind74/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Milind Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Milind74&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+ 
+  <p align="center">
+    <a href="https://github.com/Milind74/github-readme-stats"><img alt="Abhishek Sardagi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Milind74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+     
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milind74&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    </p>
+  
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
+<a href="https://github.com/Milind74/github-readme-activity-graph"><img alt="Milind Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Milind74&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/milind-anand-33a361175/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Milind74/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Milind74">
+</a>
+<a href="https://github.com/Milind74?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a>
