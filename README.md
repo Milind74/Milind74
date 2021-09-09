@@ -57,7 +57,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
  
   <p align="center">
-    <a href="https://github.com/Milind74/github-readme-stats"><img alt="Abhishek Sardagi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Milind74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Milind74/github-readme-stats"><img alt="milind anand" Github Stats" src="https://github-readme-stats.vercel.app/api?username=Milind74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
      
   <p align="center">
