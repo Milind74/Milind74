@@ -15,11 +15,11 @@ and DS & Algo.</h3>
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently learning :** Data Structures & Algorithms
+🌱 **I’m currently learning :**MERN Stack** 
 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 **Ask me about :** JavaScript, React, Redux
+
+💬 **Ask me about :**JavaScript, React, Redux**
 
 🥅 **2021 Goals :** Learning new things and contribute more
 
