@@ -39,10 +39,6 @@ and DS & Algo.</h3>
 </p>
 <br/>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/milindanand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <p align="center">
     <a href="https://github.com/Milind74/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Milind Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Milind74&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
