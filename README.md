@@ -24,6 +24,7 @@ and DS & Algo.</h3>
 🥅 **2021 Goals :** Learning new things and contribute more
 
  📫 You can reach me at [chat](mailto:milindanand74@gmail.com) 
+ 
  Visit My Portfolio:  https://milindanand.netlify.app/
 
 
