@@ -19,7 +19,10 @@ and DS & Algo.</h3>
 
 
 
-💬 **Ask me about :** JavaScript, React, Reduxhttps://milindanand.netlify.app/
+💬 **Ask me about :** JavaScript, React, Redux
+
+visit my portfolio:-
+https://milindanand.netlify.app/
 
 🥅 **2021 Goals :** Learning new things and contribute more
 
