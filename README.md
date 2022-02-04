@@ -15,7 +15,7 @@ and DS & Algo.</h3>
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently learning :** MERN Stack 
+🌱 **I’m currently working in Salesken as a software developer. 
 
 
 
