@@ -22,7 +22,7 @@ and DS & Algo.</h3>
 💬 **Ask me about :** JavaScript, React, Redux
 
 
-🥅 **2022 Goals :** Learning new things and contribute more
+🥅 **2023 Goals :** Learning new things and contribute more
 
  📫 You can reach me at [chat](mailto:milindanand74@gmail.com) 
  
