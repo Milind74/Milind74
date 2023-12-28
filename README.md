@@ -19,7 +19,7 @@ and DS & Algo.</h3>
 
 
 
-💬 **Ask me about :** JavaScript, React, Redux
+💬 **Ask me about :** JavaScript, React, Redux,Cypress
 
 
 🥅 **2023 Goals :** Learning new things and contribute more
