@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milind Anand</h1>
-<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing,
+<h3 align="center">I'm a Full Stack Web Developer with 3 years of hands-on experience in designing, developing,
 and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
 clean, elegant and efficient code. Highly skilled in collaboration, decision-making,
-and DS & Algo.</h3>
+and data structures & algorithms.
+</h3>
 
 <p align= "center">
 
@@ -19,10 +20,10 @@ and DS & Algo.</h3>
 
 
 
-💬 **Ask me about :** JavaScript, React, Redux,Cypress
+💬 **Ask me about :** JavaScript, React, Redux,,RTK Query,Cypress
 
 
-🥅 **2023 Goals :** Learning new things and contribute more
+🥅 **2024 Goals :** Learning new things and contribute more
 
  📫 You can reach me at [chat](mailto:milindanand74@gmail.com) 
  
