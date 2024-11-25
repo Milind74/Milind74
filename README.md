@@ -16,7 +16,7 @@ and data structures & algorithms.
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently working in Josh Software as a software developer. 
+🌱 **I’m currently working in Parallel Minds as a software developer. 
 
 
 
