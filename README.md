@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Milind Anand</h1>
-<h3 align="center">I'm a Full Stack Web Developer with 3 years of hands-on experience in designing, developing,
+<h3 align="center">I'm a Full Stack Web Developer with 4+ years of hands-on experience in designing, developing,
 and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
 clean, elegant and efficient code. Highly skilled in collaboration, decision-making,
 and data structures & algorithms.
@@ -27,7 +27,6 @@ and data structures & algorithms.
 
  📫 You can reach me at [chat](mailto:milindanand74@gmail.com) 
  
- Visit My Portfolio:  https://milindanand.netlify.app/
 
 
 ## 🚀 Languages and Tools:
